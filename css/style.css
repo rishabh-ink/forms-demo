@@ -1,0 +1,27 @@
+
+
+/* ===== Primary Styles ========================================================
+   Author: See /humans.txt
+   ========================================================================== */
+body {
+	overflow-y: scroll;
+}
+
+#layout-vertical div.input-prepend input,
+#layout-vertical div.input-append input {
+	display: inline-block;
+}
+
+label.error {
+	color: inherit;
+}
+
+
+
+
+
+
+
+
+
+
