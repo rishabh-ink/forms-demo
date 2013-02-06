@@ -21,7 +21,7 @@ A demo of forms
 *	Clean, concise, clear, maintainable and extensible code
 *	see **script.js** for the validation code
 *	Follows CSS-based layout, not table-based layout
-*	HTML5-complaint
+*	HTML5-complaint 
 *	ensures cross-browser and cross-device compatibility
 *	Uses font-based icons for seamless scalability
 *	using [http://fortawesome.github.com/Font-Awesome](FontAwesome icons)
