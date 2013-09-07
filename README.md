@@ -26,5 +26,4 @@ A demo of forms
 *	Uses font-based icons for seamless scalability
 *	using [http://fortawesome.github.com/Font-Awesome](FontAwesome icons)
 *	try zooming into the web page and note the icons scale along too
-
--
+*	
